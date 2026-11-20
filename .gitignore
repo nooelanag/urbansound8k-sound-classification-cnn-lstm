@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+UrbanSound8K/
+8hY5ER
+*.tar
+*.wav
+*.pkl
+*.pth
+drive/
